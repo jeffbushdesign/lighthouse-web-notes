@@ -7,7 +7,7 @@
 
 This repository contains all of the notes taken by [Jeff Bush](https://github.com/jeffbushdesign) for the Lighthouse Labs [Web Development Flex Program](https://www.lighthouselabs.ca/en/web-development-flex-program).
 
-[www.jeffbush.com](www.jeffbush.com)
+[www.jeffbush.com](http://www.jeffbush.com)
 
 ### Table of Contents
 * [Week 1](Week_1)
